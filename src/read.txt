@@ -1,0 +1,32 @@
+#installation docker
+https://phoenixnap.com/kb/how-to-install-docker-on-ubuntu-18-04
+#
+https://realpython.com/django-development-with-docker-compose-and-machine/
+
+
+docker-compose run web python DockerProject/manage.py migrate
+
+
+https://medium.com/@deepakshakya/beginners-guide-to-use-docker-build-run-push-and-pull-4a132c094d75
+https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf
+https://medium.com/backticks-tildes/how-to-dockerize-a-django-application-a42df0cb0a99 --->imp
+http://www.servermom.org/pull-docker-images-run-docker-containers/3225/
+https://medium.com/@deepakshakya/beginners-guide-to-use-docker-build-run-push-and-pull-4a132c094d75
+
+
+#commands
+sudo docker push udaypython/dockerproject_web:latest
+
+
+
+
+#https://www.youtube.com/watch?v=Y_ -VeC_j4
+#https://www.youtube.com/watch?v=610jg8bK0I8&t=318s
+
+
+Alias names (Shortcuts)
+
+---->	vi ~/.bashrc
+---->	alias a='source ~/workspace_35/bin/activate'
+---->	alias 'uk'='python manage.py runserver'
+
